@@ -40,9 +40,6 @@ This enables users to get detailed, context-specific answers to their agricultur
 - **Market Alignment:** Assists farmers in aligning production with market trends, optimizing marketing strategies, and maximizing profitability.
 - **Sustainability:** Encourages sustainable agricultural practices, maintaining soil health, reducing waste, and conserving natural resources.
 
-<img align="center" src="https://drive.google.com/uc?export=view&id=1K0nnHL1bbDZs0pSJXOB2Q3CwY8ki69F2" width="60%" height="60%"/>
-
-
 ## Conclusion
 
 AgroAI POC is a powerful tool for modern agriculture, providing AI-driven solutions to enhance productivity, optimize resource use, and promote sustainability. By leveraging comprehensive datasets and advanced machine learning models, AgroAI POC empowers farmers and agricultural experts to improve production efficiency, resilience, and profitability, ensuring food security and environmental stewardship within the agricultural sector.
