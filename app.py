@@ -1,3 +1,8 @@
+# Set the Streamlit environment to use pysqlite3 instead of sqlite3
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import os
 import streamlit as st
 
@@ -21,10 +26,7 @@ os.environ["OPENAI_API_KEY"] = st.secrets["openai_api_key"]
 os.environ["LANGCHAIN_API_KEY"] = st.secrets["langchain_api_key"]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 
-# Set the Streamlit environment to use pysqlite3 instead of sqlite3
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 
 # Streamlit app title
