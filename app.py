@@ -10,9 +10,16 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 
 from Config.Config import settings
 from request_func import Get_JWT_Token, Get_Yield_Prediction, Get_Crop_Recommendation, Get_Fertilizer_Recommendation
-# Set Local environment variables
-os.environ["OPENAI_API_KEY"] = settings.openai_api_key
-os.environ["LANGCHAIN_API_KEY"] = settings.langchain_api_key
+
+
+# # Set Local environment variables
+# os.environ["OPENAI_API_KEY"] = settings.openai_api_key
+# os.environ["LANGCHAIN_API_KEY"] = settings.langchain_api_key
+# os.environ["LANGCHAIN_TRACING_V2"] = "true"
+
+# Set Streamlit environment variables
+os.environ["OPENAI_API_KEY"] = st.secrets["openai_api_key"]
+os.environ["LANGCHAIN_API_KEY"] = st.secrets["langchain_api_key"]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 
 
