@@ -22,8 +22,8 @@ from request_func import Get_JWT_Token, Get_Yield_Prediction, Get_Crop_Recommend
 # os.environ["LANGCHAIN_TRACING_V2"] = "true"
 
 # Set Streamlit environment variables
-os.environ["OPENAI_API_KEY"] = st.secrets["openai_api_key"]
-os.environ["LANGCHAIN_API_KEY"] = st.secrets["langchain_api_key"]
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+os.environ["LANGCHAIN_API_KEY"] = st.secrets["LANGCHAIN_API_KEY"]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 
 
