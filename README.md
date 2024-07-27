@@ -10,16 +10,20 @@ AgroAI POC is a comprehensive proof-of-concept API designed to leverage artifici
 
 AgroAI POC employs a suite of regression models to predict crop yields accurately. Utilizing comprehensive datasets that include soil composition, environmental factors, historical yield data, and crop management practices, the API provides valuable insights to optimize agricultural practices and ensure sustainable crop production.
 - **GitHub Repository:** [Agricultural-Crop-Yield-Prediction](https://github.com/leon7731/Crop-Yield-Prediction)
+<img align="center" src="https://drive.google.com/uc?export=view&id=1iy322Z0ge8pJ35N7z5ZVG13m0bTVMZiN" width="100%" height="100%"/>
 
 ### Crop Recommendation
 
 The API assists farmers in selecting the most suitable crops for their specific regions. By analyzing datasets that cover soil properties, climatic conditions, historical crop performance, and current market trends, the API provides precise crop recommendations. This ensures higher yields, better quality produce, and alignment with market demands.
 - **GitHub Repository:** [Agricultural-Crop-Recommendation](https://github.com/leon7731/Agricultural-Crop-Recommendation)
+<img align="center" src="https://drive.google.com/uc?export=view&id=1PbufscJLVac_38bBG4aVoUapolwKYgM9" width="100%" height="100%"/>
 
 ### Fertilizer Recommendation
 
 AgroAI POC provides accurate fertilizer recommendations to optimize nutrient management, enhance crop productivity, and maintain soil health. The API analyzes soil nutrient composition, crop requirements, environmental factors, and historical fertilization practices to deliver precise recommendations.
 - **GitHub Repository:** [Agricultural-Fertilizer-Recommendation](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation)
+<img align="center" src="https://drive.google.com/uc?export=view&id=10qV2bwe9n-ClA-If88DmpSivVm640FS5" width="100%" height="100%"/>
+
 
 ### Chat with AgroBot LLM
 
@@ -32,6 +36,11 @@ Users can chat with AgroBot, an LLM (Large Language Model) that utilizes a custo
 
 This enables users to get detailed, context-specific answers to their agricultural queries, enhancing their decision-making process with reliable, expert-sourced information.
 
+<img align="center" src="https://drive.google.com/uc?export=view&id=1Pdb9g2h2T7AynMCdWVh0Fmm-umQTTwkc" width="60%" height="60%"/>
+
+All queries made to the 'AgroBot' can be viewed in Langsmith for further business analysis.
+<img align="center" src="https://drive.google.com/uc?export=view&id=1p5ZRBoOtlKOeYrhfZmOUxZ4kyQ4yEgtJ" width="60%" height="60%"/>
+
 ## Benefits of AgroAI POC
 
 - **Optimized Production:** Helps farmers fine-tune planting schedules, select suitable crop varieties, and implement effective management practices.
@@ -39,6 +48,7 @@ This enables users to get detailed, context-specific answers to their agricultur
 - **Risk Mitigation:** Enables anticipation and mitigation of risks such as adverse weather conditions, pest infestations, and nutrient deficiencies.
 - **Market Alignment:** Assists farmers in aligning production with market trends, optimizing marketing strategies, and maximizing profitability.
 - **Sustainability:** Encourages sustainable agricultural practices, maintaining soil health, reducing waste, and conserving natural resources.
+
 
 ## Conclusion
 
