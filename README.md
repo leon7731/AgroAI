@@ -39,7 +39,7 @@ This enables users to get detailed, context-specific answers to their agricultur
 <img align="center" src="https://drive.google.com/uc?export=view&id=1Pdb9g2h2T7AynMCdWVh0Fmm-umQTTwkc" width="60%" height="60%"/>
 
 All queries made to the 'AgroBot' can be viewed in Langsmith for further business analysis.
-<img align="center" src="https://drive.google.com/uc?export=view&id=1p5ZRBoOtlKOeYrhfZmOUxZ4kyQ4yEgtJ" width="60%" height="60%"/>
+<img align="center" src="https://drive.google.com/uc?export=view&id=1p5ZRBoOtlKOeYrhfZmOUxZ4kyQ4yEgtJ" width="80%" height="80%"/>
 
 ## Benefits of AgroAI POC
 
